@@ -9,4 +9,4 @@
 
 
 We utilized the pytorch tutorial for SpeechCommands dataset by adding definition for RNN-T encoder, prediction network and joint network. 
-[Ref:](https://pytorch.org/tutorials/intermediate/speech_command_classification_with_torchaudio_tutorial.html) 
+[Reference](https://pytorch.org/tutorials/intermediate/speech_command_classification_with_torchaudio_tutorial.html) 
